@@ -126,3 +126,5 @@ status = wait_element(driver, by=By.TAG_NAME, value='title')
 print(status.text)
 
 # driver.close()
+
+#Не удалось написать тест для проверки авторизации, если можно, объясните как это сделать.
