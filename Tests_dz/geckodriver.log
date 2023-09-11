@@ -1,0 +1,23 @@
+1694271864168	geckodriver	INFO	Listening on 127.0.0.1:61494
+1694271867279	mozrunner::runner	INFO	Running command: "C:\\Users\\mini-\\.cache\\selenium\\firefox\\win64\\117.0\\firefox.exe" "--marionette" "--remote-debugging- ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mini-\\AppData\\Local\\Temp\\rust_mozprofilezYUyXT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694271870376	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694271870575	Marionette	INFO	Listening on port 61525
+Read port: 61525
+WebDriver BiDi listening on ws://127.0.0.1:61495
+1694271874732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:61495/devtools/browser/72af1ada-93c8-47f0-8a1e-766800791887
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://passport.yandex.ru."
+JavaScript warning: https://yastatic.net/react/17.0.2/react-with-dom-and-polyfills.min.js, line 115: Script terminated by timeout at:
+ja@https://yastatic.net/react/17.0.2/react-with-dom-and-polyfills.min.js:115:77
+Jj@https://yastatic.net/react/17.0.2/react-with-dom-and-polyfills.min.js:204:458
+@https://yastatic.net/react/17.0.2/react-with-dom-and-polyfills.min.js:282:242
+Ki@https://yastatic.net/react/17.0.2/react-with-dom-and-polyfills.min.js:86:376
+
+1694272013329	Marionette	INFO	Stopped listening on port 61525
+Dynamically enable window occlusion 1
